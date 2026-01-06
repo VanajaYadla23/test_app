@@ -166,6 +166,8 @@ app_license = "mit"
 # 	],
 # }
 
+fixtures = ["Workflow"]
+
 # Testing
 # -------
 
